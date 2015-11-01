@@ -1,6 +1,6 @@
 
-reactor-examples/.idea
-reactor-examples/.gradle
-reactor-examples/build
-reactor-examples/gradle
-reactor-examples/*.iml
+eventbus-examples/.idea
+eventbus-examples/.gradle
+eventbus-examples/build
+eventbus-examples/gradle
+eventbus-examples/*.iml
