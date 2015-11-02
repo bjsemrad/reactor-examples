@@ -4,3 +4,8 @@ eventbus-examples/.gradle
 eventbus-examples/build
 eventbus-examples/gradle
 eventbus-examples/*.iml
+broadcaster-examples/.idea
+broadcaster-examples/.gradle
+broadcaster-examples/build
+broadcaster-examples/gradle
+broadcaster-examples/*.iml
