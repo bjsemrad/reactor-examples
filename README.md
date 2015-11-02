@@ -17,3 +17,6 @@ Both examples use a poison message into the stream to know when the process has 
 would want your streams/events to continue processing all the time until a shutdown signal is received which can be handled in a much more elegant way.
 
 Please feel free to contribute other examples, or add to this if you have a better use case.
+
+As always for detailed documentation please see the project reactor reference documentation:
+http://projectreactor.io/docs/reference/
